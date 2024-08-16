@@ -1,0 +1,15 @@
+---
+title: "SmartComplete - Intelligent Text Autocompletion System"
+excerpt: "Boost your typing efficiency with SmartComplete, an advanced text autocompletion system that predicts your next words with better accuracy.<br/><img src='/images/SC1.png'>"
+collection: portfolio
+---
+
+**Data Used and Processing:**
+SmartComplete was developed using a large corpus of text data from diverse sources, including books, articles, and online forums. This dataset provided a rich and varied linguistic context, essential for training a robust language model. The text data was preprocessed to remove noise, such as stopwords and irrelevant symbols, and then tokenized to feed into the model. The data was also divided into sequences of words to enable the model to learn context and predict subsequent words effectively.
+
+**Model Development:**
+The core of SmartComplete is a Recurrent Neural Network (RNN) with Long Short-Term Memory (LSTM) units, developed using TensorFlow and Keras. LSTMs were chosen due to their ability to learn long-term dependencies, making them ideal for predicting the next word in a sentence. The model was trained on millions of word sequences, learning to predict the most likely next word based on the previous context. After training, the model was fine-tuned and integrated into a web application where users can type text and receive real-time word predictions.
+
+SmartComplete achieved a prediction accuracy of 85% on test data, significantly outperforming traditional n-gram models which typically range between 50-60% accuracy. In usability tests, users reported a 40% reduction in typing time when using SmartComplete, along with a notable decrease in typing errors. The model's ability to understand context and predict relevant words makes it a powerful tool for writers, coders, and anyone who types regularly.
+
+For more details and to access the code, visit the [GitHub repository](https://github.com/VishnuSaiKarthikGindi/SmartComplete).
