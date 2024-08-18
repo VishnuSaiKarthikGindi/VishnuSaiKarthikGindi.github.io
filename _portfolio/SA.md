@@ -1,6 +1,6 @@
 ---
 title: "Sentiment Analysis on the Impact of Autonomous Vehicle Incidents"
-excerpt: "Analyzed the long-term and short-term public bias towards autonomous vehicles following incidents like the Uber pedestrian crash. Utilized advanced NLP techniques, including transformers and traditional sentiment analysis models, on data scraped from news articles and Twitter. Processed data using Apache Spark and visualized insights with Python.<br/><img src='/images/SA.jpg'>"
+excerpt: "Analyzed the long-term and short-term public bias towards autonomous vehicles following incidents like the Uber pedestrian crash. Utilized advanced NLP techniques, including transformers and traditional sentiment analysis models, on data scraped from news articles and Twitter. Processed data using Apache Spark and visualized insights with Python.<br/><img src='/images/SA_2.jpg'>"
 collection: portfolio
 ---
 
