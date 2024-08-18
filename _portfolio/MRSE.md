@@ -1,6 +1,6 @@
 ---
 title: "Medical Record Search Engine using LLM and KG"
-excerpt: "An AI-powered search assistant for healthcare clinics that leverages large language models (LLMs) and knowledge graphs (KGs) to improve patient data retrieval and insights, This innovative approach addresses the challenges posed by traditional chat assistants, such as limited data connectivity and the inability to handle complex queries effectively.<br/><img src='/images/MRSE1.png'>"
+excerpt: "An AI-powered search assistant for healthcare clinics that leverages large language models (LLMs) and knowledge graphs (KGs) to improve patient data retrieval and insights, This innovative approach addresses the challenges posed by traditional chat assistants, such as limited data connectivity and the inability to handle complex queries effectively.<br/><img src='/images/MRSE2.png'>"
 collection: portfolio
 ---
 
