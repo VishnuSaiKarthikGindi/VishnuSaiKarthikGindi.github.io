@@ -1,6 +1,6 @@
 ---
 title: "MovieMagic: A Recommendation Engine"
-excerpt: "Building a cutting-edge recommendation system using Graph Neural Networks (GCN and GAT) integrated with a Factorization Machine for predicting user-item interactions on the MovieLens dataset. <br/><img src='/images/MM_2.png'>"
+excerpt: "Building a cutting-edge recommendation system using Graph Neural Networks (GCN and GAT) integrated with a Factorization Machine for predicting user-item interactions on the MovieLens dataset. <br/><img src='/images/MM_2.jpg'>"
 collection: portfolio
 ---
 
