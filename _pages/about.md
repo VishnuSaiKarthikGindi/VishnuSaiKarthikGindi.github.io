@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br/><img src='/images/Cover_1.png' alt='Portfolio Cover Image'>
+<br/><img src='/images/Screenshot_20240818-210339~3.png' alt='Portfolio Cover Image'>
 
 **Hi, I'm Vishnu!** I'm a dedicated Data Scientist with a passion for leveraging machine learning, advanced data analytics, and big data technologies to uncover insights from complex datasets and transform them into actionable strategies.
 
