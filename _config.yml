@@ -21,10 +21,10 @@ repository               : "VishnuSaiKarthikGindi/VishnuSaiKarthikGindi.github.i
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile.jpg"
   name             : "Vishnu Gindi"
   pronouns         : # example: "she/her"  
-  bio              : "Data Scientist"
+  bio              : "ML Enthusiast"
   location         : "Atlanta, GA"
   employer         : #"Red Brick University"
   uri              : # URL
@@ -44,6 +44,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "VishnuSaiKarthikGindi"
+  tableau          : "vishnu.sai.karthik.gindi"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

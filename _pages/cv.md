@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV here](https://VishnuSaiKarthikGindi.github.io/files/Data_Scientist_Resume.pdf) 
+[Download CV here](https://VishnuSaiKarthikGindi.github.io/files/DataScientist.pdf) 
