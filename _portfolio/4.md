@@ -1,6 +1,6 @@
 ---
 title: "SmartComplete - Intelligent Text Autocompletion System"
-excerpt: "Boost your typing efficiency with SmartComplete, an advanced text autocompletion system that predicts your next words with better accuracy.<br/><img src='/images/SC1.png'>"
+excerpt: "Boost your typing efficiency with SmartComplete, an advanced text autocompletion system that predicts your next words with better accuracy. <br/><img src='/images/SC_2.png'>"
 collection: portfolio
 ---
 
