@@ -1,21 +1,29 @@
 ---
 permalink: /
-title: "Welcome to My Portfolio 🎉"
+title: "Hello There 👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<br/><img src='/images/Cover_main.png' alt='Portfolio Cover Image'>
+<br/><img src='/images/Cover_portfolio.png' alt='Portfolio Cover Image'>
 
-**Hi, I'm Vishnu!** I'm a dedicated Data Scientist with a passion for leveraging machine learning, advanced data analytics, and big data technologies to uncover insights from complex datasets and transform them into actionable strategies.
+**I'm Vishnu!** I'm a **Data Scientist** passionate about transforming data into actionable insights through cutting-edge AI and Big data technologies. My expertise spans the entire ML lifecycle, from model development to deployment in the cloud, ensuring robust and scalable solutions.
 
-🎓 I hold a **Master’s degree in Computer Science** from the University of Alabama (graduated May 2024). During my time there, I contributed to various impactful projects. As a Graduate Research Assistant at the Alabama Water Institute, I enhanced data processing workflows for the National Snow Model, **increasing efficiency by 25%**. My work on developing a **ML-based snow model** using CNN and LSTM improved Snow Water Equivalent (SWE) precision by 15%. This research was published and presented at the AGU Conference, and you can find the abstract [here](https://ui.adsabs.harvard.edu/abs/2023AGUFM.C51D0971C/abstract). Additionally, I developed a comprehensive **data retrieval and processing pipeline** for NSMv2.0, which is available on [GitHub](https://github.com/whitelightning450/SWEML).
+🎓 I earned my **Master’s in Computer Science** in May 2024. As a Research Assistant, I engineered and deployed complex ML solutions such as a **CNN-based snow model**, improving Snow Water Equivalent (SWE) prediction accuracy by 15%. My work also optimized the **National Snow Model’s data pipeline**, boosting processing efficiency by 25%,  which is available on [GitHub](https://github.com/whitelightning450/SWEML). I showcased these findings at the AGU Conference—check out the abstract [here](https://ui.adsabs.harvard.edu/abs/2023AGUFM.C51D0971C/abstract).
 
-At the Alabama Transportation Institute 🚗, I contributed to traffic safety initiatives by analyzing **Alabama crash records** and the public perception on **Short Term effects of Autonomous Vehicles** post incidents. By utilizing Python, Apache Spark, and SQL, I achieved a 10x improvement in processing efficiency on extensive taffic data. 💼 During my tenure as a Data Scientist Intern, I created data cleaning pipelines using Pandas and other advanced algorithms, also includes Exploratory Data Analysis (EDA) using **dynamic visualizations and dashboards** in Tableau and Python, boosting insights. I also assisted in model development using PyTorch, where advanced feature engineering techniques helped enhance model accuracy by 20%. My contributions to designing and implementing Spark jobs were instrumental in improving data transformation workflows.
+🚗 At the Alabama Transportation Institute, I applied ML techniques, such as **Decision Trees**, and **CNNs**, to analyze over 200,000 traffic crash records. Conducted end to end **sentiment analysis** on public perception of autonomous vehicles after viral incidents using finetuned **RoBERTa transformer**, **web scraping**, and **statistical evaluation**. I also enhanced real-time traffic analytics using **Apache Spark**, improving **ETL pipeline** scalability and processing speeds by 2x.
+ 
+🔧 As a Data Scientist Intern, I built **containerized applications** using **Flask** and **Docker** to showcase ML models, integrating them with **REST APIs** for seamless demos. I also deployed these models on **Google Cloud**, making them accessible and scalable. My work on model evaluation using **PyTorch** and advanced algorithms pushed the accuracy of fraud detection systems by 20%. I also assisted in model development and evaluation using PyTorch and various metrics, where advanced feature engineering techniques helped enhance model accuracy by 20%. My contributions to designing and implementing Spark jobs were instrumental in improving data transformation workflows.
 
-I am currently exploring the latest trends in AI, focusing on cutting-edge technologies and frameworks like **LangChain, LangGraphs, MLOPs and MLflow** to harness the power of **Large Language Models (LLMs)** for various use cases and product development and deployement. My technical expertise spans across Generative AI, Python, and big data tools such as Apache Spark and Airflow. I leverage both relational and non-relational databases to perform complex data transformations, ensuring robust and scalable solutions. 
+🚀 I am actively exploring **MLOps** practices with tools like **MLflow**, **Dagshub** and GenAI frameworks like **Langchain** and **Llama-index** to ensure smooth deployment of **Large Language Models (LLMs)**. This includes advanced containerization, continuous integration (CI/CD), and cloud-based monitoring to support enterprise-grade solutions. 
 
-Additionally, I hold multiple certifications in Data Science and AI field that includes **Microsoft Certified Azure Data Engineer Associate** [credentials](https://learn.microsoft.com/api/credentials/share/en-us/VishnuSaiKarthikGindi-3535/4F8D3C0FE3400207?sharingId=46CF6B4AB103184B), demonstrating my proficiency in cloud platforms like Azure and Google Cloud. From designing intelligent chatbots and recommendation engines to building intricate data pipelines, I am committed to pushing the boundaries of AI and transforming data into actionable insights.
+🔍 Some exciting GenAI projects I'm working on include:
 
-Feel free to explore my portfolio to learn more about the projects I've worked on and the innovative solutions I've developed. Let’s connect and collaborate! 🤝
+**TravelGPT** 🛫: A **multi-agent chatbot** designed for handling travel queries, particularly across regions in India. It employs **hierarchical indexing retrieval strategies** and LangChain to optimize response accuracy. It’s a fully functional **RAG (Retrieval-Augmented Generation)** model integrated with travel APIs for broader functionalities.
+
+**Medical Record Search Engine** 🏥: A powerful RAG-based engine built using **Neo4j and LLMs**, designed to enhance healthcare by offering precise medical records retrieval. This system integrates knowledge graphs for context-aware searching, doubling data retrieval efficiency.
+
+Additionally, I hold multiple certifications, including being a **Microsoft Certified Azure Data Engineer Associate** [credentials](https://learn.microsoft.com/api/credentials/share/en-us/VishnuSaiKarthikGindi-3535/4F8D3C0FE3400207?sharingId=46CF6B4AB103184B) and MLOps course. With a solid foundation in machine learning and cloud platforms like Azure and Google Cloud, I build ML pipelines that are scalable, cloud-deployable, and production-ready.
+
+💻 Explore my portfolio to see the projects I’ve built and the innovative solutions I’ve contributed to. Let’s connect and collaborate! 🤝
